@@ -110,3 +110,11 @@ devenv.local.nix
 
 # pre-commit
 .pre-commit-config.yaml
+
+catalogs/test
+catalogs/test.c
+libkd/test
+libkd/test.c
+plot/test
+util/test
+util/test.c
