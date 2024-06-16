@@ -6,6 +6,8 @@
     cairo
     cfitsio
     libjpeg
+    netpbm
+    python3Packages.numpy
     python3Packages.setuptools
     swig
     zlib
