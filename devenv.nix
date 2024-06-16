@@ -6,8 +6,11 @@
     cairo
     cfitsio
     libjpeg
+    python3Packages.setuptools
+    swig
     zlib
   ];
 
   languages.c.enable = true;
+  languages.python.enable = true;
 }

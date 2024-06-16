@@ -69,6 +69,7 @@ include/astrometry/os-features-config.h
 libkd/checktree
 libkd/deps
 libkd/fix-bb
+sdss/build
 sdss/cutils.py
 sdss/cutils_wrap.c
 util/os-features-test-*
@@ -118,3 +119,4 @@ libkd/test.c
 plot/test
 util/test
 util/test.c
+__init__.py
